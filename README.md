@@ -1,7 +1,7 @@
 <div align=center>
   
   # Awesome Github and Smash Repsitories
-  *A curated list of Unique Smash Mods and Github Repositories*
+  *A curated list of Awesome Github Repositories*
 </div>
 
 # Index
