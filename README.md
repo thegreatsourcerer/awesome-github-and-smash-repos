@@ -1,6 +1,6 @@
 <div align=center>
   
-  # Awesome Github and Smash Repsitories
+  # Awesome Github and Repsitories
   *A curated list of Awesome Github Repositories*
 </div>
 
