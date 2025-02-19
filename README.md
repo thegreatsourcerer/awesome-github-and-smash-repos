@@ -18,7 +18,7 @@ Repository  |   Description |   License |
 |   [Awesome](https://github.com/sindresorhus/awesome)  |   😎 Awesome lists about all kinds of interesting topics  |   [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 |   [Python](https://github.com/vinta/awesome-python)   |   A curated list of awesome Python frameworks, libraries, software and resources  |   [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ ) |
 |   [Awesome Actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
-|   [Awesome Github Profile READMEs](https://github.com/abhisheknaidu/awesome-github-profile-readmes) 😎 A curated list of awesome profile READMEs |  [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
+|   [Awesome Github Profile READMEs](https://github.com/abhisheknaidu/awesome-github-profile-readmes) |  😎 A curated list of awesome profile READMEs | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) |
 
 ## License
 
